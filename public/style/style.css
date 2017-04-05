@@ -1,0 +1,19 @@
+body{
+	/*background: url('../img/bg.jpg');
+	opacity: 1;
+	background-size: 100% 100%;*/
+	background: #f7fac1;
+}
+.recipeTitle{
+	text-align: center;
+	font-weight: bold;
+}
+
+img,.recipeDescriptions{
+	display: inline-block;
+	width: 45%;
+	margin-left: 5%;
+}
+img{
+	width: 300px;
+}
