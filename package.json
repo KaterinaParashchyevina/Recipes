@@ -1,7 +1,7 @@
 {
-  "name": "react-ru-tutorial",
+  "name": "cook-app",
   "version": "1.0.0",
-  "description": "React RU tutorial",
+  "description": "React app",
   "main": "index.html",
   "scripts": {
     "start": "node server.js"
